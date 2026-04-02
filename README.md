@@ -4,7 +4,7 @@
 
 ## 🎬 Demo Preview
 
-![Demo](assets/demo.gif)
+![Demo](Demo.gif)
 
 ---
 
