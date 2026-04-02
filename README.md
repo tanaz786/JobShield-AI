@@ -116,6 +116,7 @@ This tool provides risk analysis based on patterns and is not 100% accurate.
 Solves real-world problem
 Fast and interactive
 Explainable AI approach
+
 👥 Team
 
 Scam Hunters
