@@ -9,6 +9,7 @@ interface AnalysisResult {
   risk_level: 'low' | 'medium' | 'high'
   is_job_post?: boolean
   invalid_reason?: string
+  total_scans?: number
 }
 
 const ALLOWED_API_URL = 'http://localhost:8000'
