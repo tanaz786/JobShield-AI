@@ -1,0 +1,28 @@
+# Environment files - NEVER upload these
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+
+# macOS
+.DS_Store
+
+# Data files
+backend/data/
+backend/scan_count.json
